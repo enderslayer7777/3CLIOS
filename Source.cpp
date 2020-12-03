@@ -1,8 +1,7 @@
-#include <iostream>
-#include <fstream>
+#include <iostream.h>
+#include <fstream.h>
 #include <Windows.h>
-#include <fstream>
-#include <string>
+#include <string.h>
 #pragma warning(disable:4716)
 
 using namespace std;
